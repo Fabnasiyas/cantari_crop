@@ -27,6 +27,9 @@
 .App-link {
   color: #61dafb;
 }
+.font-mochie {
+  font-family: 'Mochie Pop One', sans-serif;
+}
 
 @keyframes App-logo-spin {
   from {
@@ -35,4 +38,13 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.right-div{
+  /* position: relative; */
+  padding-left: 500px;
+}
+.image2{
+  position: absolute;
+  
 }
